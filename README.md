@@ -1,5 +1,6 @@
 # Hosting website in github pages 
 Getting Started:
+
 1.Clone or fork this repository to your local machine.
 
 2.Customize the template according to your desired website design. Modify the HTML, CSS, and assets as needed.

@@ -10,4 +10,5 @@ Getting Started:
 4.Follow the instructions in the README to deploy your static website on GitHub Pages.
 
 5.Access your hosted website by visiting the GitHub Pages URL associated with your repository.
+
 checkout - https://bhanu-prakash-h.github.io/Host-a-website/
